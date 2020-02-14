@@ -1,0 +1,17 @@
+"F:\IAR\arm\bin\armproc.dll" 
+
+"F:\IAR\arm\bin\armjlink2.dll" 
+
+"F:\3.15_speed2_zigesai\3.15_speed2_zigesai\Debug\Exe\seusmarter.out" 
+
+--plugin "F:\IAR\arm\bin\armbat.dll" 
+
+--device_macro "F:\IAR\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "F:\IAR\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader "F:\IAR\arm\config\flashloader\NXP\FlashK60Dxxx128K.board" 
+
+
+
+
